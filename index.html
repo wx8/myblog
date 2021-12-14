@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<main class="homehead">
+<div class="catalogue">
+  {% for post in paginator.posts %}
+    <div class="catalogue-item">
+      <h1 class="catalogue-title">
+		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	  </h1>
+		<div class="catalogue-time">{{ post.date | date: "📋%Y-%m-%d　✒️熊の猫" }}</div>
+        <p>
+          {{ post.content | strip_html | truncate:120 }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Read More»</a>
+		  <div class="textnone">2hu.net - 二只老虎</div>
+        </p>
+    </div>
+  {% endfor %}
+</div>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+  <span>{{ paginator.page }}</span>
+</div>
+</main>
