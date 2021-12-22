@@ -1,0 +1,18 @@
+<head>
+  <title>
+    {% if page.title %}{{ page.title | escape }} - 虤（2hu.net）
+    {% else %}虤 - 2hu.net{% endif %}
+  </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="author" content="熊の猫">
+  <link rel="preconnect" href="//tcb-api.tencentcloudapi.com">
+  <link rel="preconnect" href="//gravatar.zeruns.tech">
+  <link rel="preconnect" href="//cdn.sh.cn" crossorigin>
+  <link rel="stylesheet" href="/main.min.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="//cdn.sh.cn/static/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="//cdn.sh.cn/static/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="//cdn.sh.cn/static/apple-touch-icon.png">
+  {% feed_meta %}
+</head>
