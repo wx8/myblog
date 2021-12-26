@@ -1,9 +1,10 @@
 ---
-title: 来了👏老铁
+title: "来了\U0001F44F老铁"
 permalink: "/friend/"
 layout: page
 author: 熊的猫
 ---
+
 <style>blockquote p{text-align:center!important}.fl{width:33%;text-align:center;float:left}</style>
 
 > 生活是大海，

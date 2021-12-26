@@ -1,5 +1,5 @@
 ---
-title: 作者📝博客
+title: "作者\U0001F4DD博客"
 permalink: "/about/"
 layout: page
 author: 熊的猫
