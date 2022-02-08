@@ -41,7 +41,7 @@ author: 熊的猫
 
 [🟨 林海草原](https://lhcy.org/){:target="_blank"}：愿我经历的苦难你不要经历，愿我已有的幸福你触手可及
 
-[🟦 老张博客](https://zhangbo.org/){:target="_blank"}：记录生活随笔日志、分享实用技术资讯的个人博客
+[🟦 老张博客](https://izhang.org/){:target="_blank"}：记录生活随笔日志、分享实用技术资讯的个人博客
 
 [🟥 菜鸟之志](http://loonlog.com/){:target="_blank"}：一个菜鸟的学习日志
 
