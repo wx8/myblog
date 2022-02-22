@@ -18,9 +18,8 @@ hr{border:solid 1px transparent;border-bottom:3px dashed #efefea;margin:2rem aut
 .nav{width:auto;height:78px;background:#fafafa}
 .nav a,#results-container a{text-decoration:none}
 .nav-container,main{display:block;margin:0 auto;max-width:40em;width:95%}
-.logo{display:block;width:40px;float:left;height:40px;margin-top:19px;text-align:center;background:#e54b4b;border-radius:10px}
-.logo:hover{background:#fd8b8b}
-.logo h1{font-size:1.5rem;color:#fafafa;line-height:40px;margin-top:0}
+.logo{display:block;width:40px;float:left;height:40px;margin-top:19px;background:url(https://cdn.sh.cn/static/a-1.svg) no-repeat;border-radius:10px}
+.logo:hover{background:url(https://cdn.sh.cn/static/a-2.svg) no-repeat}
 #search-input{display:flex;max-width:512px;margin:0 auto;border:1px solid transparent;border-radius:24px;border-color:rgba(223,225,229,0);box-shadow:0 2px 8px 1px rgb(64 60 67/24%)}
 .desktop{float:right}
 .desktop ul{list-style-type:none;line-height:78px;padding:0;margin:0}
@@ -123,7 +122,7 @@ pre code{color:inherit;font-size:85%;padding:0;margin:0}
 .hljs-keyword,.hljs-selector-tag{color:#6b6bb8}
 .hljs-emphasis{font-style:italic}
 .hljs-strong{font-weight:700}
-.tk-extras,.tk-row.actions .tk-action-icon,.tk-preview,.tk-footer,.hidden,.v.vwrap.vedit.vctrl span.vpreview-btn,.comment-related,.textnone{display:none!important}
+.tk-extras,.tk-row.actions .tk-action-icon,.tk-preview,.tk-footer,.hidden,.v.vwrap.vedit.vctrl span.vpreview-btn,.comment-related,.textnone,.logo h1{display:none!important}
 @media (min-width:37.5em){.swiper{display:block}
   .swipes,.archivemobile{display:none}
   .archivedesktop{display:block;float:right;background-color:#fafafa;width:150px;margin-left:25px;padding:5px;position:sticky;top:40px;height:512px;overflow-y:auto}
