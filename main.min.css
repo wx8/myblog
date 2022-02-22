@@ -20,7 +20,7 @@ hr{border:solid 1px transparent;border-bottom:3px dashed #efefea;margin:2rem aut
 .nav-container,main{display:block;margin:0 auto;max-width:40em;width:95%}
 .logo{display:block;width:40px;float:left;height:40px;margin-top:19px;background:url(https://cdn.sh.cn/static/a-1.svg) no-repeat;border-radius:10px}
 .logo:hover{background:url(https://cdn.sh.cn/static/a-0.svg) no-repeat}
-.logo h1{font-size:1.5rem;color:#fafafa;line-height:40px;margin-top:0}
+.logo h1{font-size:1.5rem;color:transparent;line-height:40px;margin-top:0}
 #search-input{display:flex;max-width:512px;margin:0 auto;border:1px solid transparent;border-radius:24px;border-color:rgba(223,225,229,0);box-shadow:0 2px 8px 1px rgb(64 60 67/24%)}
 .desktop{float:right}
 .desktop ul{list-style-type:none;line-height:78px;padding:0;margin:0}
@@ -151,7 +151,7 @@ pre code{color:inherit;font-size:85%;padding:0;margin:0}
   img,.hero.slim{filter:grayscale(30%)}
   blockquote{color:#f0f0f0;border-radius:12px;border:0;background-color:#222}
   a,.catalogue-title a,h1,h2,h3,h4,h5,.post h2 a,.post h3 a,.post h4 a,.footnote,.post-list a,footer a,.post a,p a{color:#f0f0f0}
-  a:hover,.logo h1{color:#252627}
+  a:hover{color:#252627}
   .dropdown-content{background-color:#3b3d42}
   .dropdown-content a{color:#a9a9b3}
   .tk-expand{background:linear-gradient(rgba(41,42,45,0),rgba(41,42,45,1))!important}
