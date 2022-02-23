@@ -150,7 +150,6 @@ pre code{color:inherit;font-size:85%;padding:0;margin:0}
   img,.hero.slim{filter:grayscale(30%)}
   blockquote{color:#f0f0f0;border-radius:12px;border:0;background-color:#222}
   a,.catalogue-title a,h1,h2,h3,h4,h5,.post h2 a,.post h3 a,.post h4 a,.footnote,.post-list a,footer a,.post a,p a{color:#f0f0f0}
-  a:hover{color:#252627}
   .dropdown-content{background-color:#3b3d42}
   .dropdown-content a{color:#a9a9b3}
   .tk-expand{background:linear-gradient(rgba(41,42,45,0),rgba(41,42,45,1))!important}
