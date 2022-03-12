@@ -32,3 +32,4 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - muji.gemspec
+timezone: Asia/Shanghai
