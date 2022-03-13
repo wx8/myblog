@@ -44,7 +44,6 @@ hr{border:solid 1px transparent;border-bottom:3px dashed #efefea;margin:2rem aut
 footer{text-align:center;padding:1.5rem 0 .1rem}
 footer span{font-size:13.5px}
 .read-more{font-size:13.5px;font-weight:bolder;color:#61bfad;border-bottom:1px solid #61bfad}
-.diwen{font-family:"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Segoe UI Symbol","Android Emoji",EmojiSymbols;width:300px;background-image:linear-gradient(to right,rgba(250,250,250,1),rgba(250,250,250,0))}
 .relatedposts{margin:2.5em 0}
 ul#results-container li{color:#ffd900;list-style-type:square}
 input,textarea{font-family:'helvetica neue','luxi sans','dejavu sans','Tahoma','hiragino sans gb','microsoft yahei',sans-serif;font-size:1em;border:none;padding:.2em .5em;width:100%}
