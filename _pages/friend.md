@@ -47,6 +47,6 @@ author: 熊的猫
 
 * [ION](https://zooo.io/){:target="_blank"}：内容不适合所有年龄段，或不宜在工作期间访问
 
-* [十年之约](https://www.foreverblog.cn/){:target="_blank"}：这个网站会存在十年或者更久
+* [十年之约](https://www.foreverblog.cn/blog/2794.html){:target="_blank"}：这个网站会存在十年或者更久
 
 * [博客我们](https://blogwe.com/){:target="_blank"}：致敬还在写博客的我们
