@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.2hu.net/sitemap.xml
+Sitemap: http://2hu.net/sitemap.xml
